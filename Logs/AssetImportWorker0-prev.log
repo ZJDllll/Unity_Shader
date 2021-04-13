@@ -1,0 +1,1513 @@
+Using pre-set license
+Built from '2020.2/china_unity/release' branch; Version is '2020.2.2f1c1 (e7e650540bb3) revision 15197776'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19041.804; Version 2004; 64bit' Language: 'zh' Physical Memory: 16191 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\UnityEditor\2020.2.2f1c1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/SVN_NEW/Built-InTemplate
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+62297
+Successfully changed project path to: D:/SVN_NEW/Built-InTemplate
+D:/SVN_NEW/Built-InTemplate
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 34.91 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.2f1c1 (e7e650540bb3)
+[Subsystems] Discovering subsystems at path D:/UnityEditor/2020.2.2f1c1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/SVN_NEW/Built-InTemplate/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1080 (ID=0x1b80)
+    Vendor:   
+    VRAM:     8079 MB
+    Driver:   26.21.14.4114
+Initialize mono
+Mono path[0] = 'D:/UnityEditor/2020.2.2f1c1/Editor/Data/Managed'
+Mono path[1] = 'D:/UnityEditor/2020.2.2f1c1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/UnityEditor/2020.2.2f1c1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56196
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/UnityEditor/2020.2.2f1c1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001109 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 34.70 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.786 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003390 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.086 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1486 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.7 MB.
+System memory in use after: 90.8 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 1948.
+Total: 2.227900 ms (FindLiveObjects: 0.182500 ms CreateObjectMapping: 0.085500 ms MarkObjects: 1.867500 ms  DeleteObjects: 0.091300 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/zfc/zfc_Models
+  artifactKey: Guid(63aaa5e422ab8574992c0dfa62805978) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/zfc_Models using Guid(63aaa5e422ab8574992c0dfa62805978) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f4e477a7a52b9421bf0f968bb94015a') in 0.008136 seconds
+  Import took 0.010827 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.487689 seconds.
+  path: Assets/zfc/WEB_ZFC
+  artifactKey: Guid(9e0a20bfe46d75642b8c5f256d40f5e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/WEB_ZFC using Guid(9e0a20bfe46d75642b8c5f256d40f5e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e35af93aea650f50237f2251869ee325') in 0.006284 seconds
+  Import took 0.008971 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 67.918057 seconds.
+  path: Assets/MeshBaker/docs
+  artifactKey: Guid(3bc8f1bc844c6a44e837dd869e241e20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/docs using Guid(3bc8f1bc844c6a44e837dd869e241e20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b816e5e9297b75abb366fcc2e1f5a93') in 0.005420 seconds
+  Import took 0.007764 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.058555 seconds.
+  path: Assets/MeshBaker/Editor/searchFilters/MB3_GroupByRenderType.cs
+  artifactKey: Guid(ccb4d2ba98c9989449e34934c09ec5ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Editor/searchFilters/MB3_GroupByRenderType.cs using Guid(ccb4d2ba98c9989449e34934c09ec5ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bc6a01bd3c350c13f492d80bfcfc009') in 0.072585 seconds
+  Import took 0.074945 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.223325 seconds.
+  path: Assets/MeshBaker/Editor/searchFilters/MB3_GroupByStandardShaderType.cs
+  artifactKey: Guid(b9be5ed7795b65d448a3cd700e472f8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Editor/searchFilters/MB3_GroupByStandardShaderType.cs using Guid(b9be5ed7795b65d448a3cd700e472f8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbaf062cdb84b6ae0e9818cff86dc786') in 0.004825 seconds
+  Import took 0.007158 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005994 seconds.
+  path: Assets/MeshBaker/Editor/searchFilters/MB3_GroupByStandardShaderType.cs
+  artifactKey: Guid(b9be5ed7795b65d448a3cd700e472f8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Editor/searchFilters/MB3_GroupByStandardShaderType.cs using Guid(b9be5ed7795b65d448a3cd700e472f8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbaf062cdb84b6ae0e9818cff86dc786') in 0.001495 seconds
+  Import took 0.004794 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.455468 seconds.
+  path: Assets/MeshBaker/Editor/searchFilters/MB3_GroupByStatic.cs
+  artifactKey: Guid(4e91e5646c425c8428d175ac3fe62800) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Editor/searchFilters/MB3_GroupByStatic.cs using Guid(4e91e5646c425c8428d175ac3fe62800) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d90c672a8acac921f80534ca985600e') in 0.004764 seconds
+  Import took 0.007751 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003009 seconds.
+  path: Assets/MeshBaker/Editor/searchFilters/MB3_GroupByStatic.cs
+  artifactKey: Guid(4e91e5646c425c8428d175ac3fe62800) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Editor/searchFilters/MB3_GroupByStatic.cs using Guid(4e91e5646c425c8428d175ac3fe62800) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d90c672a8acac921f80534ca985600e') in 0.001556 seconds
+  Import took 0.003714 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 76.508359 seconds.
+  path: Assets/zfc/MeshBaker
+  artifactKey: Guid(b74db1ae41d0bdd4aa7df2100e4300af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/MeshBaker using Guid(b74db1ae41d0bdd4aa7df2100e4300af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c755385a3ae58d1449f5bee63b836f1') in 0.005583 seconds
+  Import took 0.008267 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 238.936569 seconds.
+  path: Assets/zfc/MeshBaker/1 1.mat
+  artifactKey: Guid(1bdff17e2572de94b9d2a49a990e7100) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/MeshBaker/1 1.mat using Guid(1bdff17e2572de94b9d2a49a990e7100) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0071a4646298ea644a66a1a86ad3121') in 0.207773 seconds
+  Import took 0.210939 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/zfc/MeshBaker/1 8.mat
+  artifactKey: Guid(d337f33757aa64842ab872d5ebd63cd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/MeshBaker/1 8.mat using Guid(d337f33757aa64842ab872d5ebd63cd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcedcfac8197fd8d674d86c0f9bab0ce') in 0.013203 seconds
+  Import took 0.096550 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/zfc/MeshBaker/1 12.mat
+  artifactKey: Guid(98a0a59c61aadf444a0e258919091840) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/MeshBaker/1 12.mat using Guid(98a0a59c61aadf444a0e258919091840) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ed35497301352fe4816be8edeb4bed9') in 0.010008 seconds
+  Import took 0.012547 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000414 seconds.
+  path: Assets/zfc/MeshBaker/1 11.mat
+  artifactKey: Guid(9cd16bd2b880df5479bb41472a6387cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/MeshBaker/1 11.mat using Guid(9cd16bd2b880df5479bb41472a6387cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bed6b24406cd5caba0944ef1698932a2') in 0.010920 seconds
+  Import took 0.014175 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/zfc/MeshBaker/1 10.mat
+  artifactKey: Guid(61a97c94dfd712441935fa1558c832f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/MeshBaker/1 10.mat using Guid(61a97c94dfd712441935fa1558c832f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27e8a0e499f1ebbddb970bdd6f3d4200') in 0.010308 seconds
+  Import took 0.013722 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/zfc/MeshBaker/AllMesh-mat.mat
+  artifactKey: Guid(64cda1f5f0983cb49b9ae4ddf5da35d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/MeshBaker/AllMesh-mat.mat using Guid(64cda1f5f0983cb49b9ae4ddf5da35d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f752dd1874ffaf62567e99fb95417a0') in 0.013580 seconds
+  Import took 0.015976 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/zfc/MeshBaker/1 7.mat
+  artifactKey: Guid(27bdbd37894021843a1479a4eb9c2456) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/MeshBaker/1 7.mat using Guid(27bdbd37894021843a1479a4eb9c2456) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2645fdc0fb01fe3237ebf2dea991539f') in 0.010538 seconds
+  Import took 0.013579 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/zfc/MeshBaker/1 3.mat
+  artifactKey: Guid(4b36ff733633e6941b736332b1fed455) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/MeshBaker/1 3.mat using Guid(4b36ff733633e6941b736332b1fed455) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '062ae799a46a747093e32ac8da88e836') in 0.012162 seconds
+  Import took 0.015081 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/zfc/MeshBaker/1 13.mat
+  artifactKey: Guid(69cc6c4bd21c39f49bdfcceefef669bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/MeshBaker/1 13.mat using Guid(69cc6c4bd21c39f49bdfcceefef669bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b8cd9e8fa6e000eaafd00a0b82e272f') in 0.010531 seconds
+  Import took 0.013117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/zfc/MeshBaker/1 2.mat
+  artifactKey: Guid(cbd73bc47f0ab5547a00d9878b7acd5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/MeshBaker/1 2.mat using Guid(cbd73bc47f0ab5547a00d9878b7acd5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a0c7ddcca1a862d3d869ca30b851752') in 0.010740 seconds
+  Import took 0.013172 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000346 seconds.
+  path: Assets/zfc/MeshBaker/1 6.mat
+  artifactKey: Guid(46529e11d02fa004d8da1cd678376b35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/MeshBaker/1 6.mat using Guid(46529e11d02fa004d8da1cd678376b35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a0dd40c30037202857a6126ac47f127') in 0.008322 seconds
+  Import took 0.010518 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000461 seconds.
+  path: Assets/zfc/MeshBaker/1 14.mat
+  artifactKey: Guid(27f6a8abbbae30944b84ba5847dbf4bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/MeshBaker/1 14.mat using Guid(27f6a8abbbae30944b84ba5847dbf4bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '781a8275bce99f992cbde91598049cd0') in 0.010511 seconds
+  Import took 0.013012 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/zfc/MeshBaker/1 4.mat
+  artifactKey: Guid(b8c4c3cf857164e408002651b92030cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/MeshBaker/1 4.mat using Guid(b8c4c3cf857164e408002651b92030cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7441f2315fd4df17a566eedfd3e90623') in 0.010406 seconds
+  Import took 0.012754 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/zfc/MeshBaker/1 5.mat
+  artifactKey: Guid(6a17d08a4ee2ffa40a7c603639e8f8e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/MeshBaker/1 5.mat using Guid(6a17d08a4ee2ffa40a7c603639e8f8e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '032dd54b4b347866f48557d90b40a7ab') in 0.011798 seconds
+  Import took 0.015147 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/zfc/MeshBaker/1 9.mat
+  artifactKey: Guid(80fad77b7080a6145b1ad227c84dd0f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/MeshBaker/1 9.mat using Guid(80fad77b7080a6145b1ad227c84dd0f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b81365e02722f0e5094c70bf8a6f9a38') in 0.010948 seconds
+  Import took 0.014237 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 633.011098 seconds.
+  path: Assets/zfc/MeshBaker/AllMesh.asset
+  artifactKey: Guid(2864510a8cff3ab488c8981f638ea2d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/MeshBaker/AllMesh.asset using Guid(2864510a8cff3ab488c8981f638ea2d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7207ef880f3df8eacd2ed94ec48df922') in 0.012916 seconds
+  Import took 0.025426 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022244 seconds.
+  path: Assets/zfc/MeshBaker/AllMesh.asset
+  artifactKey: Guid(2864510a8cff3ab488c8981f638ea2d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/MeshBaker/AllMesh.asset using Guid(2864510a8cff3ab488c8981f638ea2d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7207ef880f3df8eacd2ed94ec48df922') in 0.001890 seconds
+  Import took 0.004513 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 242.477866 seconds.
+  path: Assets/zfc/MeshBaker/1 11-_MainTex-atlas0.png
+  artifactKey: Guid(a55c6e6fbfe7fc54f80c05978d7fca03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/MeshBaker/1 11-_MainTex-atlas0.png using Guid(a55c6e6fbfe7fc54f80c05978d7fca03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b14b013f6e9216f9ceed852c4d4fafb0') in 0.063435 seconds
+  Import took 0.066782 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.030798 seconds.
+  path: Assets/zfc/MeshBaker/1 11-_MainTex-atlas0.png
+  artifactKey: Guid(a55c6e6fbfe7fc54f80c05978d7fca03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/MeshBaker/1 11-_MainTex-atlas0.png using Guid(a55c6e6fbfe7fc54f80c05978d7fca03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b14b013f6e9216f9ceed852c4d4fafb0') in 0.005446 seconds
+  Import took 0.008245 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.290347 seconds.
+  path: Assets/zfc/MeshBaker/1 10-_MainTex-atlas0.png
+  artifactKey: Guid(819ba5ce90b097f4ea725b91ec1578c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/MeshBaker/1 10-_MainTex-atlas0.png using Guid(819ba5ce90b097f4ea725b91ec1578c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e07f76e1ec410cf79640796186c7175') in 0.009265 seconds
+  Import took 0.029921 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022402 seconds.
+  path: Assets/zfc/MeshBaker/1 10-_MainTex-atlas0.png
+  artifactKey: Guid(819ba5ce90b097f4ea725b91ec1578c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/MeshBaker/1 10-_MainTex-atlas0.png using Guid(819ba5ce90b097f4ea725b91ec1578c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e07f76e1ec410cf79640796186c7175') in 0.004983 seconds
+  Import took 0.007404 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.597840 seconds.
+  path: Assets/zfc/MeshBaker/1 1-_MainTex-atlas0.png
+  artifactKey: Guid(c4c4d69fdb8ed234a9f7499f43c0eae9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/MeshBaker/1 1-_MainTex-atlas0.png using Guid(c4c4d69fdb8ed234a9f7499f43c0eae9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61da99755c357f28cf4d47b2ba76e837') in 0.024438 seconds
+  Import took 0.046956 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001607 seconds.
+  path: Assets/zfc/MeshBaker/1 1-_MainTex-atlas0.png
+  artifactKey: Guid(c4c4d69fdb8ed234a9f7499f43c0eae9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/MeshBaker/1 1-_MainTex-atlas0.png using Guid(c4c4d69fdb8ed234a9f7499f43c0eae9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61da99755c357f28cf4d47b2ba76e837') in 0.006693 seconds
+  Import took 0.009672 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.344163 seconds.
+  path: Assets/zfc/MeshBaker/1 2-_MainTex-atlas0.png
+  artifactKey: Guid(81261464d2dfd3640b7249f6fb86ad55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/MeshBaker/1 2-_MainTex-atlas0.png using Guid(81261464d2dfd3640b7249f6fb86ad55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f997d7e2e3d548c9fc9eba7a8aaae461') in 0.012762 seconds
+  Import took 0.015392 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.029340 seconds.
+  path: Assets/zfc/MeshBaker/1 2-_MainTex-atlas0.png
+  artifactKey: Guid(81261464d2dfd3640b7249f6fb86ad55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/MeshBaker/1 2-_MainTex-atlas0.png using Guid(81261464d2dfd3640b7249f6fb86ad55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f997d7e2e3d548c9fc9eba7a8aaae461') in 0.006706 seconds
+  Import took 0.009937 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.126628 seconds.
+  path: Assets/zfc/MeshBaker/1 3-_MainTex-atlas0.png
+  artifactKey: Guid(e9dfc272449a84e47be9282c320130e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/MeshBaker/1 3-_MainTex-atlas0.png using Guid(e9dfc272449a84e47be9282c320130e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d55c0763d5c1a68a4d977bab2405daf') in 0.008126 seconds
+  Import took 0.010856 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.763974 seconds.
+  path: Assets/zfc/MeshBaker/All-_MainTex-atlas0.png
+  artifactKey: Guid(7081ac3f17202e843ae6ee3d129758fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/MeshBaker/All-_MainTex-atlas0.png using Guid(7081ac3f17202e843ae6ee3d129758fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa0eaa9e2e2aeb6d348808d608bb9962') in 0.037177 seconds
+  Import took 0.041043 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006808 seconds.
+  path: Assets/zfc/MeshBaker/All-_MainTex-atlas0.png
+  artifactKey: Guid(7081ac3f17202e843ae6ee3d129758fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/MeshBaker/All-_MainTex-atlas0.png using Guid(7081ac3f17202e843ae6ee3d129758fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa0eaa9e2e2aeb6d348808d608bb9962') in 0.029995 seconds
+  Import took 0.033673 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 112.738198 seconds.
+  path: Assets/zfc/MeshBaker/1 4-_MainTex-atlas0.png
+  artifactKey: Guid(da540a37f15a3cb469e7397f84633f8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/MeshBaker/1 4-_MainTex-atlas0.png using Guid(da540a37f15a3cb469e7397f84633f8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8a80933c01e9202111db1eab8300765') in 0.014737 seconds
+  Import took 0.017461 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.030451 seconds.
+  path: Assets/zfc/MeshBaker/1 4-_MainTex-atlas0.png
+  artifactKey: Guid(da540a37f15a3cb469e7397f84633f8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/MeshBaker/1 4-_MainTex-atlas0.png using Guid(da540a37f15a3cb469e7397f84633f8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8a80933c01e9202111db1eab8300765') in 0.007810 seconds
+  Import took 0.010506 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 39.750617 seconds.
+  path: Assets/zfc/MeshBaker/1 5-_MainTex-atlas0.png
+  artifactKey: Guid(ddf35f4bddd4def4a9a5a1042555baee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/MeshBaker/1 5-_MainTex-atlas0.png using Guid(ddf35f4bddd4def4a9a5a1042555baee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9e361e2df9577c5d8123f3de1c19ddb') in 0.008765 seconds
+  Import took 0.011715 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.532061 seconds.
+  path: Assets/zfc/MeshBaker/1 6-_MainTex-atlas0.png
+  artifactKey: Guid(8895dbaca978eaf49b13d2d730502038) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/MeshBaker/1 6-_MainTex-atlas0.png using Guid(8895dbaca978eaf49b13d2d730502038) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '082bab7f913952b830961cc2bb394e95') in 0.009506 seconds
+  Import took 0.012599 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.028446 seconds.
+  path: Assets/zfc/MeshBaker/1 6-_MainTex-atlas0.png
+  artifactKey: Guid(8895dbaca978eaf49b13d2d730502038) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/MeshBaker/1 6-_MainTex-atlas0.png using Guid(8895dbaca978eaf49b13d2d730502038) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '082bab7f913952b830961cc2bb394e95') in 0.006608 seconds
+  Import took 0.010001 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.397587 seconds.
+  path: Assets/zfc/MeshBaker/1 7-_MainTex-atlas0.png
+  artifactKey: Guid(69bdd3672fd11fd43b99686e6231e664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/MeshBaker/1 7-_MainTex-atlas0.png using Guid(69bdd3672fd11fd43b99686e6231e664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9c4559edec46cd206d5904718487023') in 0.008371 seconds
+  Import took 0.012187 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.395319 seconds.
+  path: Assets/zfc/MeshBaker/1 9-_MainTex-atlas0.png
+  artifactKey: Guid(693ac1a0340028d45bd61b2f5d437683) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/MeshBaker/1 9-_MainTex-atlas0.png using Guid(693ac1a0340028d45bd61b2f5d437683) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b38a14edf4dfc160498cb5b9431819a8') in 0.008129 seconds
+  Import took 0.011124 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.704638 seconds.
+  path: Assets/DL/Textures/Splat Maps/Binary Splat Map.png
+  artifactKey: Guid(fe2bdcbf1d5fb4d67a4a263b3129908e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DL/Textures/Splat Maps/Binary Splat Map.png using Guid(fe2bdcbf1d5fb4d67a4a263b3129908e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a37376968d49cdb2dbc54e199f2a6236') in 0.071662 seconds
+  Import took 0.090029 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Assets/MeshBaker/Examples/BatchPrepareObjectsForDynamicBatching/comb-mat-_MainTex-atlas0.png
+  artifactKey: Guid(afd77b1fcdc48db4480c0b91ebf59b2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/BatchPrepareObjectsForDynamicBatching/comb-mat-_MainTex-atlas0.png using Guid(afd77b1fcdc48db4480c0b91ebf59b2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '020dcba9cc5d835d1815996e6572e431') in 0.129122 seconds
+  Import took 0.131890 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/zfc/Textures/ZFJT_221.jpg
+  artifactKey: Guid(014bbf276a4a89b4595ed9d743b1ce8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/Textures/ZFJT_221.jpg using Guid(014bbf276a4a89b4595ed9d743b1ce8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8c1d63bdf4d0576ee27952b113e057e') in 0.010897 seconds
+  Import took 0.013336 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/ZH/ReflectScene/ReflectionProbe-2.exr
+  artifactKey: Guid(0b8d048ba97811545820df5a238ba634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZH/ReflectScene/ReflectionProbe-2.exr using Guid(0b8d048ba97811545820df5a238ba634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d3d013eeefbcd85163ef277481b5bac') in 0.076422 seconds
+  Import took 0.088377 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/zfc/zfc_Models/Building/Textures/ZFJT_207.jpg
+  artifactKey: Guid(27526cc5a73e2fa42915b9a0426517e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/zfc_Models/Building/Textures/ZFJT_207.jpg using Guid(27526cc5a73e2fa42915b9a0426517e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac614df2f4e70a77fba632da16d7005f') in 0.010152 seconds
+  Import took 0.020843 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/ZH/ReflectScene/ReflectionProbe-2.exr
+  artifactKey: Guid(0b8d048ba97811545820df5a238ba634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZH/ReflectScene/ReflectionProbe-2.exr using Guid(0b8d048ba97811545820df5a238ba634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d3d013eeefbcd85163ef277481b5bac') in 0.010487 seconds
+  Import took 0.012875 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/zfc/zfc_Models/Building/Textures/ZFJT_220.jpg
+  artifactKey: Guid(91cf3713b2a70304cb971c83323093a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/zfc_Models/Building/Textures/ZFJT_220.jpg using Guid(91cf3713b2a70304cb971c83323093a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d1014ebb11ba25e8d897ef5db4727f4') in 0.008264 seconds
+  Import took 0.021998 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000432 seconds.
+  path: Assets/MeshBaker/Examples/MultipleMaterials/ResultMaterials/TextureBakeResult-Wood-_MainTex-atlas0.png
+  artifactKey: Guid(6ab2e031f66cffb49931e160331c8dd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/MultipleMaterials/ResultMaterials/TextureBakeResult-Wood-_MainTex-atlas0.png using Guid(6ab2e031f66cffb49931e160331c8dd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2208362777eb3a71f56175d466fc2ad9') in 0.072626 seconds
+  Import took 0.089297 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/zfc/Textures/ZFJT_037.jpg
+  artifactKey: Guid(fb0b4366f3c5da6469813ff92d9acf3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/Textures/ZFJT_037.jpg using Guid(fb0b4366f3c5da6469813ff92d9acf3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afdc6cdce48dbe449ad70f29613e134d') in 0.009084 seconds
+  Import took 0.012321 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/zfc/Textures/ZFJT_250.jpg
+  artifactKey: Guid(536ab529d90869d418d6cd1621355464) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/Textures/ZFJT_250.jpg using Guid(536ab529d90869d418d6cd1621355464) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '175206d9e244f698e3b91c71df1ec84e') in 0.010961 seconds
+  Import took 0.030443 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/ZH/ShaderScene/Material/texture7.jpg
+  artifactKey: Guid(90d8de8bfecbb9142aff42c6de671b5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZH/ShaderScene/Material/texture7.jpg using Guid(90d8de8bfecbb9142aff42c6de671b5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef4a80eed27038f0814f4c865371962b') in 0.052287 seconds
+  Import took 0.054836 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/MeshBaker/Examples/PrepareObjectsForDynamicBatching/ModifiedPrefabs/CombinedMaterial-mat-_MainTex-atlas0.png
+  artifactKey: Guid(436615a5b6cda614cb190663beb9b949) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/PrepareObjectsForDynamicBatching/ModifiedPrefabs/CombinedMaterial-mat-_MainTex-atlas0.png using Guid(436615a5b6cda614cb190663beb9b949) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14c71096c3f677d6c5dc818b9ce6656f') in 0.065784 seconds
+  Import took 0.077339 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/MeshBaker/Examples/Assets/ModelPrefabs/ConstructionDude/Textures/worker2_diffuse.png
+  artifactKey: Guid(274f4b4e0e4a71b4db7828b0ce57b72a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/Assets/ModelPrefabs/ConstructionDude/Textures/worker2_diffuse.png using Guid(274f4b4e0e4a71b4db7828b0ce57b72a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae922fd9c7bf2c7be5261718aa218f16') in 0.036861 seconds
+  Import took 0.039880 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/zfc/Textures/ZFJT_152.jpg
+  artifactKey: Guid(9bb0e1e14978fa74ba1d64100825e317) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/Textures/ZFJT_152.jpg using Guid(9bb0e1e14978fa74ba1d64100825e317) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43f769b6330213566ec98a75669326e2') in 0.017985 seconds
+  Import took 0.027572 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/DL/Textures/Splat Maps/RGB Splat Map.png
+  artifactKey: Guid(b32b105cd36f5452c9141aa9b64b2034) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DL/Textures/Splat Maps/RGB Splat Map.png using Guid(b32b105cd36f5452c9141aa9b64b2034) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ebeae633f3fe6174c63300193315d65') in 0.050412 seconds
+  Import took 0.052716 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/zfc/zfc_Models/Building/Textures/ZFJT_175.jpg
+  artifactKey: Guid(b6d13b2b7e81d404c9a65f8d39511a5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/zfc_Models/Building/Textures/ZFJT_175.jpg using Guid(b6d13b2b7e81d404c9a65f8d39511a5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8996bda9c0cdeeb22a8f00f8ab17cd2') in 0.011131 seconds
+  Import took 0.021763 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/MeshBaker/Examples/Assets/ModelPrefabs/ConstructionDude/Textures/worker_normals.png
+  artifactKey: Guid(531c14f8d5cdc4e5baa83ee6e16f783a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/Assets/ModelPrefabs/ConstructionDude/Textures/worker_normals.png using Guid(531c14f8d5cdc4e5baa83ee6e16f783a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bafff19ef421100e7743357fcd19bcbc') in 0.074008 seconds
+  Import took 0.082416 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/MeshBaker/Examples/Scene1Assets/Platforms-mat-_Illum-atlas2.png
+  artifactKey: Guid(8caae450ad327b5499a39556a923f863) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/Scene1Assets/Platforms-mat-_Illum-atlas2.png using Guid(8caae450ad327b5499a39556a923f863) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77123c30d5bc0bace6e50a2f2985acad') in 0.055350 seconds
+  Import took 0.065994 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/zfc/zfc_Models/Building/Textures/ZFJT_208.jpg
+  artifactKey: Guid(803ecedf11c1c984fa164af2ef5ddfc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/zfc_Models/Building/Textures/ZFJT_208.jpg using Guid(803ecedf11c1c984fa164af2ef5ddfc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6b4d35d9d102ca44dd26e19f41fab2e') in 0.010312 seconds
+  Import took 0.013009 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/MeshBaker/Examples/Assets/Textures/mainLevelBump.tif
+  artifactKey: Guid(f5c70fc0cd1123a2a0008cea4ada8c59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/Assets/Textures/mainLevelBump.tif using Guid(f5c70fc0cd1123a2a0008cea4ada8c59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '706273fb381cbb243d6bc190c8d63f0d') in 0.072681 seconds
+  Import took 0.085529 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/MeshBaker/Examples/MultipleMaterials/ResultMaterials/TextureBakeResult-Foliage-_MainTex-atlas0.png
+  artifactKey: Guid(438fa5f3a480cb447a59f9767f0fc62d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/MultipleMaterials/ResultMaterials/TextureBakeResult-Foliage-_MainTex-atlas0.png using Guid(438fa5f3a480cb447a59f9767f0fc62d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f44d8d915bed685f5adcebedf42bc59') in 0.052733 seconds
+  Import took 0.055293 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/ZH/ReflectScene/ReflectionProbe-0.exr
+  artifactKey: Guid(50e59f9462df4d14d95e4bc05544f5cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZH/ReflectScene/ReflectionProbe-0.exr using Guid(50e59f9462df4d14d95e4bc05544f5cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98c658bbf5fd4471e2182981b3898043') in 0.034516 seconds
+  Import took 0.042480 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/MeshBaker/Examples/SceneBasicAssets/maintex6.psd
+  artifactKey: Guid(6f735b0e643b5db4fa5658cf78bf506f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/SceneBasicAssets/maintex6.psd using Guid(6f735b0e643b5db4fa5658cf78bf506f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c2f191201161c0c8faecd5c6a1fe3d0') in 0.038074 seconds
+  Import took 0.040832 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/DL/Textures/Cookies/Point Cookie.png
+  artifactKey: Guid(cf25371887e814f84ac6108c2c811891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DL/Textures/Cookies/Point Cookie.png using Guid(cf25371887e814f84ac6108c2c811891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd08b5c9a366543d0b9cf4bbc0dc11b9a') in 0.065237 seconds
+  Import took 0.067903 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/zfc/zfc_Models/Building/Textures/ZFJT_249.jpg
+  artifactKey: Guid(9b1ceb8faffa9414083d835e618127ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/zfc_Models/Building/Textures/ZFJT_249.jpg using Guid(9b1ceb8faffa9414083d835e618127ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60ce42bcae3b4ed508f0f019fb160037') in 0.010683 seconds
+  Import took 0.013155 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000325 seconds.
+  path: Assets/zfc/Textures/ZFJT_225.jpg
+  artifactKey: Guid(546bcda6ea7d2b249b1435b66b709c57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/Textures/ZFJT_225.jpg using Guid(546bcda6ea7d2b249b1435b66b709c57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19bfcf5d141491a4feb0dd9213d76f28') in 0.008174 seconds
+  Import took 0.010443 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/MeshBaker/Examples/Assets/Textures/lightsIllumination.tif
+  artifactKey: Guid(5dcf2fafcd1113a2a0008cea4ada8c59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/Assets/Textures/lightsIllumination.tif using Guid(5dcf2fafcd1113a2a0008cea4ada8c59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9dff7395b32d8f50e47039b9be142b9b') in 0.034273 seconds
+  Import took 0.036615 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/DL/Textures/Bumps/Marble Normals.png
+  artifactKey: Guid(d38a4f30d413745adaf12f60ca54997d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DL/Textures/Bumps/Marble Normals.png using Guid(d38a4f30d413745adaf12f60ca54997d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6393e314bce8e300f568be1cbee51029') in 0.092496 seconds
+  Import took 0.095201 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/MeshBaker/Examples/SceneRuntimeExample/CombinedMeshMaterial-mat-_MainTex-atlas0.png
+  artifactKey: Guid(9943fb72d01484b44aa114b4667c49f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/SceneRuntimeExample/CombinedMeshMaterial-mat-_MainTex-atlas0.png using Guid(9943fb72d01484b44aa114b4667c49f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16485735b34553c194d35e8ecc9500cd') in 0.050774 seconds
+  Import took 0.061918 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000417 seconds.
+  path: Assets/MeshBaker/Examples/MultipleMaterials/SourceMaterials/wood1.png
+  artifactKey: Guid(2f460851575352c47bf1f9ae561b9c0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/MultipleMaterials/SourceMaterials/wood1.png using Guid(2f460851575352c47bf1f9ae561b9c0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '782f91492352a17475f4ee9c881a4c94') in 0.037046 seconds
+  Import took 0.039583 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/DL/Textures/Bumps/Marble Detail Normals.png
+  artifactKey: Guid(5e176e7b04a7948129e9f864749e6253) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DL/Textures/Bumps/Marble Detail Normals.png using Guid(5e176e7b04a7948129e9f864749e6253) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f55c7289ca9cfdc8100443f2bf074636') in 0.054013 seconds
+  Import took 0.061261 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/MeshBaker/Examples/SceneRuntimeExample/CombinedMeshMaterial-_MainTex-atlas0.png
+  artifactKey: Guid(4e193ca7c1cefa649a4b6c21e2bddfcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/SceneRuntimeExample/CombinedMeshMaterial-_MainTex-atlas0.png using Guid(4e193ca7c1cefa649a4b6c21e2bddfcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15ce75099db251eebe0fd568fac2ba93') in 0.044041 seconds
+  Import took 0.054986 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000398 seconds.
+  path: Assets/MeshBaker/Examples/Assets/Textures/lights.tif
+  artifactKey: Guid(4f01257ecd1113a2a0008cea4ada8c59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/Assets/Textures/lights.tif using Guid(4f01257ecd1113a2a0008cea4ada8c59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '250860e3fb51fe278cf2140252bf2e7f') in 0.061986 seconds
+  Import took 0.065199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/MeshBaker/Examples/MultipleMaterials/SourceMaterials/roof_NRM.png
+  artifactKey: Guid(19e66f86fecbbd04ea24322d70256547) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/MultipleMaterials/SourceMaterials/roof_NRM.png using Guid(19e66f86fecbbd04ea24322d70256547) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '531902cee82e0005e488a622922039e4') in 0.034008 seconds
+  Import took 0.049001 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/zfc/Textures/ZFJT_005_t.png
+  artifactKey: Guid(d0c20ae682befb943a3f903e08371c3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/Textures/ZFJT_005_t.png using Guid(d0c20ae682befb943a3f903e08371c3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '160bebfbe59635b7ef20a1932d212a6e') in 0.009691 seconds
+  Import took 0.012894 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000413 seconds.
+  path: Assets/MeshBaker/Examples/SkinnedMeshRenderer/CombinedMaterial-_MainTex-atlas0.png
+  artifactKey: Guid(4fd56d8920b3b574f8e47eacc7ac676e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/SkinnedMeshRenderer/CombinedMaterial-_MainTex-atlas0.png using Guid(4fd56d8920b3b574f8e47eacc7ac676e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bd46ba38e9840daf540d12a115e9181') in 0.089447 seconds
+  Import took 0.092269 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/MeshBaker/Examples/Assets/ModelPrefabs/ConstructionDude/Textures/worker_diffuse.png
+  artifactKey: Guid(97b050d43ac7c4d2b9f6cbb587650761) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/Assets/ModelPrefabs/ConstructionDude/Textures/worker_diffuse.png using Guid(97b050d43ac7c4d2b9f6cbb587650761) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba2738a63f660ff4b080fcb9768c2252') in 0.056345 seconds
+  Import took 0.066939 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/MeshBaker/Examples/Assets/Textures/impoundLot.tif
+  artifactKey: Guid(21084c33cd1113a2a0008cea4ada8c59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/Assets/Textures/impoundLot.tif using Guid(21084c33cd1113a2a0008cea4ada8c59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6612f8b651705786a17e8e907598dde') in 0.055635 seconds
+  Import took 0.058169 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/MeshBaker/Examples/Assets/Textures/tree.tif
+  artifactKey: Guid(36b9f8c7cd1123a2a0008cea4ada8c59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/Assets/Textures/tree.tif using Guid(36b9f8c7cd1123a2a0008cea4ada8c59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3aba024260e7d23d92a79d1d0fe21ea') in 0.035262 seconds
+  Import took 0.038274 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000393 seconds.
+  path: Assets/MeshBaker/Examples/Scene1Assets/Platforms-mat-_BumpMap-atlas1.png
+  artifactKey: Guid(95c5ee0ffc18cd94db112080ab78f0da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/Scene1Assets/Platforms-mat-_BumpMap-atlas1.png using Guid(95c5ee0ffc18cd94db112080ab78f0da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13968f92a84c0e586eccc3234fda4e35') in 0.057058 seconds
+  Import took 0.068450 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/DL/Textures/Test Texture.png
+  artifactKey: Guid(cc2435ba82d2d438fb8efecebbc68789) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DL/Textures/Test Texture.png using Guid(cc2435ba82d2d438fb8efecebbc68789) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5cfcf0428026077b5312b494bc0672f') in 0.061029 seconds
+  Import took 0.063317 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/MeshBaker/Examples/SceneBasicAssets/maintex5.psd
+  artifactKey: Guid(57e7e73a9a0bea449a213f7168db4878) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/SceneBasicAssets/maintex5.psd using Guid(57e7e73a9a0bea449a213f7168db4878) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02d3cdc4bd014025fcd82490856deefc') in 0.092074 seconds
+  Import took 0.094983 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000449 seconds.
+  path: Assets/MeshBaker/Examples/MultipleMaterials/SourceMaterials/stuccoyellow.png
+  artifactKey: Guid(23e820d1118c0a247af65a92dfce9ced) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/MultipleMaterials/SourceMaterials/stuccoyellow.png using Guid(23e820d1118c0a247af65a92dfce9ced) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8000754aa2ace3b3e19ddebdbb29b60') in 0.045612 seconds
+  Import took 0.048417 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/zfc/Textures/ZFJT_200.jpg
+  artifactKey: Guid(3d04db82a0092104faf6be509c8ecbe5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/Textures/ZFJT_200.jpg using Guid(3d04db82a0092104faf6be509c8ecbe5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00d865f7971f39a434727ba757dd41ce') in 0.012496 seconds
+  Import took 0.015074 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/MeshBaker/Examples/MultipleMaterials/SourceMaterials/brick2_NRM.png
+  artifactKey: Guid(ba0883e74af442c458e3688d632da6e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/MultipleMaterials/SourceMaterials/brick2_NRM.png using Guid(ba0883e74af442c458e3688d632da6e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf9cec9086781a08eb5cede78053fc17') in 0.050664 seconds
+  Import took 0.053383 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000370 seconds.
+  path: Assets/zfc/Textures/ZFJT_203.jpg
+  artifactKey: Guid(ce2b5123b55a4e747b43851f17cd2849) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/Textures/ZFJT_203.jpg using Guid(ce2b5123b55a4e747b43851f17cd2849) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8eba6c71a98a9e14a1f87a9a710781c9') in 0.008455 seconds
+  Import took 0.011097 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000410 seconds.
+  path: Assets/MeshBaker/Examples/SkinnedMeshRenderer/combinedMaterial-mat-_MainTex-atlas0.png
+  artifactKey: Guid(d4bcc6d580fc8ac4aaec252217606f1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/SkinnedMeshRenderer/combinedMaterial-mat-_MainTex-atlas0.png using Guid(d4bcc6d580fc8ac4aaec252217606f1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7413d13e2a61a32723394f8e0776466c') in 0.080908 seconds
+  Import took 0.083718 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/MeshBaker/Examples/SceneRuntimeExample/CombinedMeshMaterial-mat-_BumpMap-atlas1.png
+  artifactKey: Guid(40086a36d2ba8b7489e064c10bcb8131) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/SceneRuntimeExample/CombinedMeshMaterial-mat-_BumpMap-atlas1.png using Guid(40086a36d2ba8b7489e064c10bcb8131) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f8fe2c2e4569b57c5c2463f9aa06034') in 0.041779 seconds
+  Import took 0.044662 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/zfc/Textures/ZFJT_097.jpg
+  artifactKey: Guid(7b24044ccc658fd4bab375e990fdc267) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/Textures/ZFJT_097.jpg using Guid(7b24044ccc658fd4bab375e990fdc267) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25a9884e6a5e9a1338667fa7058f2437') in 0.007813 seconds
+  Import took 0.010282 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000385 seconds.
+  path: Assets/zfc/Textures/ZFJT_120.jpg
+  artifactKey: Guid(7f5a2c32e9ee64548b776a519b334123) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/Textures/ZFJT_120.jpg using Guid(7f5a2c32e9ee64548b776a519b334123) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d36c087c570d0b0c74caf3afb6336ce') in 0.009626 seconds
+  Import took 0.012108 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/zfc/Textures/ZFJT_204.jpg
+  artifactKey: Guid(22fdde9d28f866b42921aeec8c8bddc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/Textures/ZFJT_204.jpg using Guid(22fdde9d28f866b42921aeec8c8bddc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd25d92c595da7b98069270a2db9a0884') in 0.009005 seconds
+  Import took 0.017273 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/zfc/Textures/ZFJT_224.jpg
+  artifactKey: Guid(1eaf2895719f33345ac10b3e75c16de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/Textures/ZFJT_224.jpg using Guid(1eaf2895719f33345ac10b3e75c16de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd32f24086411daa90f3f2d3870af69b3') in 0.011849 seconds
+  Import took 0.014617 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000378 seconds.
+  path: Assets/MeshBaker/Examples/MultipleMaterials/SourceMaterials/brick_NRM.png
+  artifactKey: Guid(990fe616eb6105b479d1a5986677ebf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/MultipleMaterials/SourceMaterials/brick_NRM.png using Guid(990fe616eb6105b479d1a5986677ebf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '120c166639229d5f9e96ef7207f22c56') in 0.030610 seconds
+  Import took 0.041417 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000367 seconds.
+  path: Assets/MeshBaker/Examples/MultipleMaterials/SourceMaterials/roof.jpg
+  artifactKey: Guid(841264a45fd1e43438c05d98ffe8e701) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/MultipleMaterials/SourceMaterials/roof.jpg using Guid(841264a45fd1e43438c05d98ffe8e701) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f739c448d25046ec7a50f444b31849c') in 0.055297 seconds
+  Import took 0.058526 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000367 seconds.
+  path: Assets/zfc/zfc_Models/Building/Textures/ZFJT_193.jpg
+  artifactKey: Guid(04ccf6847c1a5df4fa54671c5b01b921) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/zfc_Models/Building/Textures/ZFJT_193.jpg using Guid(04ccf6847c1a5df4fa54671c5b01b921) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '469d48fdeddfcab7dba08a630076bdf8') in 0.008712 seconds
+  Import took 0.011201 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/zfc/Textures/ZFJT_023.jpg
+  artifactKey: Guid(70c06cd0d4e9cb04aaf7bd7a45714cc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/Textures/ZFJT_023.jpg using Guid(70c06cd0d4e9cb04aaf7bd7a45714cc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f426016b3f6bda473e15ed2113b9c4c7') in 0.009376 seconds
+  Import took 0.020552 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/zfc/Textures/ZFJT_202.jpg
+  artifactKey: Guid(7a9f13fcc187f8e4487d25141668fa6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/Textures/ZFJT_202.jpg using Guid(7a9f13fcc187f8e4487d25141668fa6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec67d219a5ea6c12ead26b61be6d6caf') in 0.009174 seconds
+  Import took 0.011884 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/zfc/zfc_Models/Building/Textures/ZFJT_031.jpg
+  artifactKey: Guid(4a4dc686c6fce994db5ef5c348d5e6b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/zfc_Models/Building/Textures/ZFJT_031.jpg using Guid(4a4dc686c6fce994db5ef5c348d5e6b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2572b01963cd68a45022e63e3f1f4bb') in 0.013052 seconds
+  Import took 0.033424 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/zfc/Textures/ZFJT_003.jpg
+  artifactKey: Guid(e42cb9df93bfc904e841a3c0758ac49c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/Textures/ZFJT_003.jpg using Guid(e42cb9df93bfc904e841a3c0758ac49c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b905240f46eb550a1fd33bb65ef1940') in 0.007443 seconds
+  Import took 0.009718 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/zfc/Textures/ZFJT_103.jpg
+  artifactKey: Guid(6572d693cdd3b4543af48dce1c99c17b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/Textures/ZFJT_103.jpg using Guid(6572d693cdd3b4543af48dce1c99c17b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb04a03c2b9484f4f71c9812126e46ce') in 0.009329 seconds
+  Import took 0.012074 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/MeshBaker/Examples/Scene1Assets/Platforms-mat-_MainTex-atlas0.png
+  artifactKey: Guid(21290c1609e0fe64d910444231157ea5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/Scene1Assets/Platforms-mat-_MainTex-atlas0.png using Guid(21290c1609e0fe64d910444231157ea5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66e23b6265bb7fee4a188a1407013e12') in 0.070378 seconds
+  Import took 0.073859 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/MeshBaker/Examples/CharacterCustomization/Textures/player1_Tex.png
+  artifactKey: Guid(b1ffc2ea0faa8cc4a9879d47c7db52cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/CharacterCustomization/Textures/player1_Tex.png using Guid(b1ffc2ea0faa8cc4a9879d47c7db52cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b93f96efbc426910f19c5a4f3a2367e8') in 0.068725 seconds
+  Import took 0.071528 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/zfc/Textures/ZFJT_231.jpg
+  artifactKey: Guid(6b310592466bc1547b19bcc38479871d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/Textures/ZFJT_231.jpg using Guid(6b310592466bc1547b19bcc38479871d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '149fc54c296695b777f48dc4b409ed46') in 0.007960 seconds
+  Import took 0.011211 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/zfc/Textures/ZFJT_122.jpg
+  artifactKey: Guid(73d05b5a68a619c4eb13dfa9523f4529) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/Textures/ZFJT_122.jpg using Guid(73d05b5a68a619c4eb13dfa9523f4529) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d6446f37b1966a777473bddbfe4c57e') in 0.007334 seconds
+  Import took 0.010237 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/MeshBaker/Examples/MultipleMaterials/SourceMaterials/Bush.png
+  artifactKey: Guid(1a693ad389f006e4d849cb8b73159e9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/MultipleMaterials/SourceMaterials/Bush.png using Guid(1a693ad389f006e4d849cb8b73159e9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a29033ddaa5cc90c4bde022567ed9f3') in 0.064735 seconds
+  Import took 0.067728 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/MeshBaker/Examples/Assets/ModelPrefabs/hatPrefab-mat-_MainTex-atlas0.png
+  artifactKey: Guid(a8f5753dd73da3b43ad0e5191109c8cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/Assets/ModelPrefabs/hatPrefab-mat-_MainTex-atlas0.png using Guid(a8f5753dd73da3b43ad0e5191109c8cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fa9380347edb419dcd59590d1f5fae9') in 0.026882 seconds
+  Import took 0.029350 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000394 seconds.
+  path: Assets/DL/Textures/Cookies/Directional Cookie.png
+  artifactKey: Guid(f2f16226df00346c983a90793ede65dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DL/Textures/Cookies/Directional Cookie.png using Guid(f2f16226df00346c983a90793ede65dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2404997968bd5d656005e95398d00abc') in 0.047331 seconds
+  Import took 0.056294 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/zfc/WEB_ZFC/ZFDL_6C/ZFJT_205_a.png
+  artifactKey: Guid(f322951c70c85574591958770937dd11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/WEB_ZFC/ZFDL_6C/ZFJT_205_a.png using Guid(f322951c70c85574591958770937dd11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '499c376991a82b74b8947a2d98f3ad17') in 0.008373 seconds
+  Import took 0.010845 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/zfc/WEB_ZFC/ZFDL_5C/ZFJT_269_t.png
+  artifactKey: Guid(b6e6145ecfd08f64b947ecfb9f685c8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/WEB_ZFC/ZFDL_5C/ZFJT_269_t.png using Guid(b6e6145ecfd08f64b947ecfb9f685c8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65928d49e75f2a3f6f253e7f5a22a9d1') in 0.009403 seconds
+  Import took 0.012058 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/MeshBaker/Examples/SceneBasicAssets/maintex7.psd
+  artifactKey: Guid(94c3d79fdb5ee5b47bf768ec3542171e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/SceneBasicAssets/maintex7.psd using Guid(94c3d79fdb5ee5b47bf768ec3542171e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84410e7a58b5342616225074d974493d') in 0.036432 seconds
+  Import took 0.048614 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000396 seconds.
+  path: Assets/MeshBaker/Examples/MultipleMaterials/SourceMaterials/stuccobrown.jpg
+  artifactKey: Guid(aac1fbd0a6bb5cd439f623c31c19c2e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/MultipleMaterials/SourceMaterials/stuccobrown.jpg using Guid(aac1fbd0a6bb5cd439f623c31c19c2e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32fee1cfce26849c7cef9c4a77f5b5b3') in 0.053204 seconds
+  Import took 0.056066 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/MeshBaker/Examples/Assets/Textures/firstFloorPlatformIllum.tif
+  artifactKey: Guid(93cfd82192319e34aac87ea6c92d609c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/Assets/Textures/firstFloorPlatformIllum.tif using Guid(93cfd82192319e34aac87ea6c92d609c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a885937653770e1615f0ab520cf4d63') in 0.051913 seconds
+  Import took 0.065078 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/MeshBaker/Examples/Assets/Textures/impoundFence.tif
+  artifactKey: Guid(a2b68152cd1113a2a0008cea4ada8c59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/Assets/Textures/impoundFence.tif using Guid(a2b68152cd1113a2a0008cea4ada8c59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cecf3dd7ac1c5f697a9558825d0a8e7a') in 0.049194 seconds
+  Import took 0.051952 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/DL/Textures/Detail/Marble.png
+  artifactKey: Guid(c1d17104ac329429a8ce5b3c5e3e0764) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DL/Textures/Detail/Marble.png using Guid(c1d17104ac329429a8ce5b3c5e3e0764) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8be25aa62463f02e70365672f50a939d') in 0.048662 seconds
+  Import took 0.063973 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/zfc/Textures/ZFJT_232.jpg
+  artifactKey: Guid(6a895ba6de3421c4697b655a998b8a75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/Textures/ZFJT_232.jpg using Guid(6a895ba6de3421c4697b655a998b8a75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7474e3acb37301283de702011e010454') in 0.010615 seconds
+  Import took 0.013555 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/MeshBaker/Examples/Assets/Textures/firstFloorPlatformBump.tif
+  artifactKey: Guid(8dfd2fd5cd1103a2a0008cea4ada8c59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/Assets/Textures/firstFloorPlatformBump.tif using Guid(8dfd2fd5cd1103a2a0008cea4ada8c59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0423c6b7bca0de6f6a390f1d01155fe4') in 0.050596 seconds
+  Import took 0.065477 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/MeshBaker/Examples/Scene1Assets/trees-mat-_MainTex-atlas0.png
+  artifactKey: Guid(972ec28ee80f8ab40b6d42741f33090e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/Scene1Assets/trees-mat-_MainTex-atlas0.png using Guid(972ec28ee80f8ab40b6d42741f33090e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31e902625120f3fae846536d7527ae41') in 0.045763 seconds
+  Import took 0.048656 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/zfc/Textures/ZFJT_085_t.png
+  artifactKey: Guid(e6898a35d313de944a3378a5dfe3634e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/Textures/ZFJT_085_t.png using Guid(e6898a35d313de944a3378a5dfe3634e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c15c2bf0b4dfc311f8a27df5360cb8d') in 0.009008 seconds
+  Import took 0.011680 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/ZH/ReflectScene/ReflectionProbe-1.exr
+  artifactKey: Guid(b1fc0f740c16a534c924c14b27e0a11b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZH/ReflectScene/ReflectionProbe-1.exr using Guid(b1fc0f740c16a534c924c14b27e0a11b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f12fc2ed3309f5575cd79c60f2a562a') in 0.061762 seconds
+  Import took 0.065209 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/MeshBaker/Examples/CharacterCustomization/Materials/CombinedMat-mat-_MainTex-atlas0.png
+  artifactKey: Guid(a3982a2a6cbdff545b952b14bb657a36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/CharacterCustomization/Materials/CombinedMat-mat-_MainTex-atlas0.png using Guid(a3982a2a6cbdff545b952b14bb657a36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '922a250f47d58d161a06f67fe900a40d') in 0.057910 seconds
+  Import took 0.072519 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/MeshBaker/Examples/Assets/Textures/mainLevelIllum.tif
+  artifactKey: Guid(9f3bbd9b002da5347ac6975ee02c63fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/Assets/Textures/mainLevelIllum.tif using Guid(9f3bbd9b002da5347ac6975ee02c63fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7620b1b51907a9b16ee429a18a0421f5') in 0.057746 seconds
+  Import took 0.060721 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/MeshBaker/Examples/MultipleMaterials/SourceMaterials/brick.png
+  artifactKey: Guid(dd05bca8882cec741a2e8626967e6df5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/MultipleMaterials/SourceMaterials/brick.png using Guid(dd05bca8882cec741a2e8626967e6df5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f78f2a76c8c2a0f5eb738f8761e64de') in 0.037066 seconds
+  Import took 0.039486 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000376 seconds.
+  path: Assets/MeshBaker/Examples/Assets/ModelPrefabs/Goober Artwork/Textures/goober_UV.tif
+  artifactKey: Guid(58f2b3dfad11b2f7a0001efb4ada8c59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/Assets/ModelPrefabs/Goober Artwork/Textures/goober_UV.tif using Guid(58f2b3dfad11b2f7a0001efb4ada8c59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c522d3eb058ab0a435e2eef2b5c34bca') in 0.032198 seconds
+  Import took 0.034622 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000469 seconds.
+  path: Assets/zfc/Textures/ZFJT_209.jpg
+  artifactKey: Guid(1ca1bd4c4d73996419549e2568aa9e8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/Textures/ZFJT_209.jpg using Guid(1ca1bd4c4d73996419549e2568aa9e8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6c2b5ff394d74321af61a663df41060') in 0.010495 seconds
+  Import took 0.013502 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/zfc/Textures/ZFJT_123.jpg
+  artifactKey: Guid(dff3f04cc5632864caea274bd5e3a122) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/Textures/ZFJT_123.jpg using Guid(dff3f04cc5632864caea274bd5e3a122) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae401cc43e8689d43ae8bccaa313ca11') in 0.009565 seconds
+  Import took 0.012353 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/MeshBaker/Examples/MultipleMaterials/SourceMaterials/grass.png
+  artifactKey: Guid(06e14dbe7ec42ee428580d9deecd58ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/MultipleMaterials/SourceMaterials/grass.png using Guid(06e14dbe7ec42ee428580d9deecd58ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3ed17d7657219460b65495a0086f1e5') in 0.063666 seconds
+  Import took 0.066817 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/MeshBaker/Examples/SceneBasicAssets/MaterialBakeResult-mat-_MainTex-atlas0.png
+  artifactKey: Guid(650b22dbe0aa449499bce64846921d2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/SceneBasicAssets/MaterialBakeResult-mat-_MainTex-atlas0.png using Guid(650b22dbe0aa449499bce64846921d2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ca6a1636a566ce2abee48742d7df2e3') in 0.032597 seconds
+  Import took 0.035292 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/zfc/zfc_Models/Building/Textures/ZFJT_006.jpg
+  artifactKey: Guid(77351d7a46eb5ed4d8a9200ab4b2d29d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/zfc_Models/Building/Textures/ZFJT_006.jpg using Guid(77351d7a46eb5ed4d8a9200ab4b2d29d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8dca1e1b1810756fcc37807e5f457886') in 0.010812 seconds
+  Import took 0.013260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/zfc/Textures/ZFJT_121.jpg
+  artifactKey: Guid(f33e27808123d0f42b79055358efba7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/Textures/ZFJT_121.jpg using Guid(f33e27808123d0f42b79055358efba7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53ac90ac7651378b6f4a8fa2dee4c64e') in 0.007557 seconds
+  Import took 0.010359 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Assets/zfc/Textures/ZFJT_199.jpg
+  artifactKey: Guid(1fd7401aabfed2d47a8a4ce90510291c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/Textures/ZFJT_199.jpg using Guid(1fd7401aabfed2d47a8a4ce90510291c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b9e4fac3c137de502e69ecca223bcaf') in 0.010084 seconds
+  Import took 0.013539 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/zfc/Textures/ZFJT_002.jpg
+  artifactKey: Guid(b8b072f774b521b4a80a78f5c7e96bc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/Textures/ZFJT_002.jpg using Guid(b8b072f774b521b4a80a78f5c7e96bc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2842f0ce1ad7ce1268dc59582faf14fc') in 0.010187 seconds
+  Import took 0.013258 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/zfc/Textures/ZFJT_004.jpg
+  artifactKey: Guid(dfa958949ad8cee41b9961cf3f5476d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/Textures/ZFJT_004.jpg using Guid(dfa958949ad8cee41b9961cf3f5476d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '306d51a511f4c5384bb5c757dbd40f4e') in 0.009122 seconds
+  Import took 0.011747 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/MeshBaker/Examples/MultipleMaterials/ResultMaterials/TextureBakeResult-RoofBrick-_MainTex-atlas0.png
+  artifactKey: Guid(5b4975dd883bb2e45aa933d29566e3a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/MultipleMaterials/ResultMaterials/TextureBakeResult-RoofBrick-_MainTex-atlas0.png using Guid(5b4975dd883bb2e45aa933d29566e3a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df63db5267c01ae4c944aa46446ed1a9') in 0.092182 seconds
+  Import took 0.094895 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000432 seconds.
+  path: Assets/DL/Textures/Detail/Marble Detail.png
+  artifactKey: Guid(071affc9b58274e53a04d24be07b8698) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DL/Textures/Detail/Marble Detail.png using Guid(071affc9b58274e53a04d24be07b8698) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32127c05662ea3367f13418d344e1683') in 0.058211 seconds
+  Import took 0.062310 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000382 seconds.
+  path: Assets/MeshBaker/Examples/Assets/Textures/platformOneDiffuse.tif
+  artifactKey: Guid(1de01516cd1123a2a0008cea4ada8c59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/Assets/Textures/platformOneDiffuse.tif using Guid(1de01516cd1123a2a0008cea4ada8c59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2b9a5848ad74c579114b9cf00fd9b9c') in 0.071471 seconds
+  Import took 0.074819 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/MeshBaker/Examples/Assets/Textures/palm.tif
+  artifactKey: Guid(3a08ee57e0dd0ea46821cd733e3a0527) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/Assets/Textures/palm.tif using Guid(3a08ee57e0dd0ea46821cd733e3a0527) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bff6dcc7f061e3f2b1a9a5f3ec4c5fe') in 0.054287 seconds
+  Import took 0.057408 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000357 seconds.
+  path: Assets/MeshBaker/Examples/MultipleMaterials/SourceMaterials/brick2.png
+  artifactKey: Guid(ef324673160fcbd4497fa89197b61c8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/MultipleMaterials/SourceMaterials/brick2.png using Guid(ef324673160fcbd4497fa89197b61c8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3716fcc711d4544854157ee134a88154') in 0.059857 seconds
+  Import took 0.074371 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000486 seconds.
+  path: Assets/MeshBaker/Examples/SceneBasicAssets/maintex8.psd
+  artifactKey: Guid(9ebc6e2b9a7e8ca40988a5afc178492b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/SceneBasicAssets/maintex8.psd using Guid(9ebc6e2b9a7e8ca40988a5afc178492b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef2cbca6736711bbd66b7e04f4c685b9') in 0.040942 seconds
+  Import took 0.043650 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/MeshBaker/Examples/MultipleMaterials/SourceMaterials/roof2.png
+  artifactKey: Guid(2e3be660b110edc409d6a6550de532a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/MultipleMaterials/SourceMaterials/roof2.png using Guid(2e3be660b110edc409d6a6550de532a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f24b01d38829d8a5720b3d77626a4ba2') in 0.047176 seconds
+  Import took 0.049503 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/zfc/Textures/ZFJT_001.jpg
+  artifactKey: Guid(66001a267e366e9408c5577600e16247) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/Textures/ZFJT_001.jpg using Guid(66001a267e366e9408c5577600e16247) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0f138ed20c33d3a8d7b0a87a7894b58') in 0.009049 seconds
+  Import took 0.011599 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/MeshBaker/Examples/MultipleMaterials/SourceMaterials/birchBark.png
+  artifactKey: Guid(aeb01aa770dcf1f43b672799ab0215ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/MultipleMaterials/SourceMaterials/birchBark.png using Guid(aeb01aa770dcf1f43b672799ab0215ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f113d7d23de783bec4defb8e6e937433') in 0.048673 seconds
+  Import took 0.050887 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/zfc/WEB_ZFC/ZFDL_5C/ZFJT_268_t.png
+  artifactKey: Guid(814a4857e3908714c81296a7e8cc7e3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/WEB_ZFC/ZFDL_5C/ZFJT_268_t.png using Guid(814a4857e3908714c81296a7e8cc7e3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '136c4384b4702dcec989c040239817bd') in 0.008489 seconds
+  Import took 0.010862 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000387 seconds.
+  path: Assets/MeshBaker/Examples/MultipleMaterials/ResultMaterials/TextureBakeResult-RoofBrick-_BumpMap-atlas1.png
+  artifactKey: Guid(1f1f5882b9eed414484571e9ed2c7d55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/MultipleMaterials/ResultMaterials/TextureBakeResult-RoofBrick-_BumpMap-atlas1.png using Guid(1f1f5882b9eed414484571e9ed2c7d55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df2cc7e1b83e92a0eab75dd4fe2c0bb7') in 0.089099 seconds
+  Import took 0.091551 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/ZH/ShaderScene/Material/DetialNormal.jpg
+  artifactKey: Guid(2381b6773cc2592469c619b39d725a81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZH/ShaderScene/Material/DetialNormal.jpg using Guid(2381b6773cc2592469c619b39d725a81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b46befa540f7e7a7e4a1c52e1d65f53c') in 0.058811 seconds
+  Import took 0.061386 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/zfc/zfc_Models/Building/Textures/ZFJT_201_t.png
+  artifactKey: Guid(07da8a5ee4eac9d43bc1bcb04fa882ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/zfc_Models/Building/Textures/ZFJT_201_t.png using Guid(07da8a5ee4eac9d43bc1bcb04fa882ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a514c19712542b5d8fe4831da76e5cd3') in 0.011406 seconds
+  Import took 0.015404 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/zfc/zfc_Models/Building/Textures/ZFJT_013.jpg
+  artifactKey: Guid(0b230254e679c2b4ea126831673b501f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/zfc_Models/Building/Textures/ZFJT_013.jpg using Guid(0b230254e679c2b4ea126831673b501f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56a7a9126c23a0f0e4a6fc66f5b4961a') in 0.013190 seconds
+  Import took 0.027930 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/zfc/Textures/ZFJT_151_t.png
+  artifactKey: Guid(1d2b3b5a37e68764782a8983466004e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/Textures/ZFJT_151_t.png using Guid(1d2b3b5a37e68764782a8983466004e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42b3047f45fe1bd57b96fb00e4fed025') in 0.010190 seconds
+  Import took 0.012972 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000487 seconds.
+  path: Assets/zfc/Textures/ZFJT_030.jpg
+  artifactKey: Guid(b96a6a407774a1543838e5b59a4330e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/Textures/ZFJT_030.jpg using Guid(b96a6a407774a1543838e5b59a4330e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b127f353a934046d6a0caf7322527e51') in 0.008994 seconds
+  Import took 0.011825 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/DL/Textures/Detail/Grid.png
+  artifactKey: Guid(b35c1299b208e4a169d191b309690c4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DL/Textures/Detail/Grid.png using Guid(b35c1299b208e4a169d191b309690c4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65a20916a2429b3ff23684e8ccc2f0ae') in 0.048265 seconds
+  Import took 0.051325 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000325 seconds.
+  path: Assets/zfc/zfc_Models/Building/Textures/ZFJT_198.jpg
+  artifactKey: Guid(379ead7a503f05740b1fb99088b035b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/zfc_Models/Building/Textures/ZFJT_198.jpg using Guid(379ead7a503f05740b1fb99088b035b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01f04084529e5a7ac73290f4c838cd01') in 0.009088 seconds
+  Import took 0.011720 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000367 seconds.
+  path: Assets/MeshBaker/Examples/Assets/ModelPrefabs/glasses-mat-_MainTex-atlas0.png
+  artifactKey: Guid(ca29653ed95657540b0ac474668d2766) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/Assets/ModelPrefabs/glasses-mat-_MainTex-atlas0.png using Guid(ca29653ed95657540b0ac474668d2766) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7799f368e849c72719d874c57de5845') in 0.023431 seconds
+  Import took 0.026934 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/MeshBaker/Examples/Assets/Textures/impoundLotAO.tif
+  artifactKey: Guid(6cdba5c4cd1113a2a0008cea4ada8c59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/Assets/Textures/impoundLotAO.tif using Guid(6cdba5c4cd1113a2a0008cea4ada8c59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7368410da3676af9173225929fe0ab98') in 0.040572 seconds
+  Import took 0.050118 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000377 seconds.
+  path: Assets/zfc/Textures/ZFJT_226_t.png
+  artifactKey: Guid(1a1690510c1793f4c9fa9da386c47cc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/Textures/ZFJT_226_t.png using Guid(1a1690510c1793f4c9fa9da386c47cc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abd10312dc17c88b29f60bdd975e5c03') in 0.008181 seconds
+  Import took 0.011774 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000378 seconds.
+  path: Assets/MeshBaker/Examples/CharacterCustomization/Textures/skin.psd
+  artifactKey: Guid(b4f615922dd999d40bc250214c857158) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/CharacterCustomization/Textures/skin.psd using Guid(b4f615922dd999d40bc250214c857158) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2c4a026dbd80d2f2a920af276205958') in 0.066446 seconds
+  Import took 0.069558 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/DL/Textures/Cookies/Spotlight Cookie.png
+  artifactKey: Guid(ee2d5f560fd7a406e9c4c80b870cb76b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DL/Textures/Cookies/Spotlight Cookie.png using Guid(ee2d5f560fd7a406e9c4c80b870cb76b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7055eff840dc279cf5a52318d212f259') in 0.043042 seconds
+  Import took 0.046204 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/MeshBaker/Examples/Assets/Textures/platformOneIllum.tif
+  artifactKey: Guid(12cd5ce6764830e47919affe8996a1c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/Assets/Textures/platformOneIllum.tif using Guid(12cd5ce6764830e47919affe8996a1c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c541dd44754c12c55be34e134feb85a8') in 0.040148 seconds
+  Import took 0.043030 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/MeshBaker/Examples/Assets/ModelPrefabs/sword-mat-_MainTex-atlas0.png
+  artifactKey: Guid(071822a4ffcabed42b2a9aefc68e313f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/Assets/ModelPrefabs/sword-mat-_MainTex-atlas0.png using Guid(071822a4ffcabed42b2a9aefc68e313f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '952bb9f54f3a233072120059c77e3678') in 0.029020 seconds
+  Import took 0.031440 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/MeshBaker/Examples/MultipleMaterials/ResultMaterials/TextureBakeResult-Stuco-_MainTex-atlas0.png
+  artifactKey: Guid(2bf86cec2b9365d438823924b67aa7fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/MultipleMaterials/ResultMaterials/TextureBakeResult-Stuco-_MainTex-atlas0.png using Guid(2bf86cec2b9365d438823924b67aa7fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e78f88b62067dfe09033e519b34f8574') in 0.047372 seconds
+  Import took 0.050299 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/zfc/Textures/ZFJT_223.jpg
+  artifactKey: Guid(d00375d479b9cf745905751ad1141733) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/Textures/ZFJT_223.jpg using Guid(d00375d479b9cf745905751ad1141733) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7f3c5b050fbab77ebc9d512c154526d') in 0.008854 seconds
+  Import took 0.012549 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000435 seconds.
+  path: Assets/DL/Textures/Detail/Grid Detail.png
+  artifactKey: Guid(08cd82e336d3b4200b36d1841ecc2b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DL/Textures/Detail/Grid Detail.png using Guid(08cd82e336d3b4200b36d1841ecc2b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59bfa47fbafc50f0e2e3fae34e82b8ca') in 0.041084 seconds
+  Import took 0.044050 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/MeshBaker/Examples/MultipleMaterials/SourceMaterials/wood2.png
+  artifactKey: Guid(218ead6e49e5ba84ea33deba41ebe195) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/MultipleMaterials/SourceMaterials/wood2.png using Guid(218ead6e49e5ba84ea33deba41ebe195) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c0acc22ab6dd5b1ae34727b22a51ae9') in 0.046733 seconds
+  Import took 0.049643 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/MeshBaker/Examples/MultipleMaterials/SourceMaterials/birch.png
+  artifactKey: Guid(908df4d5df102b4479b6e8a8dae61a4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/MultipleMaterials/SourceMaterials/birch.png using Guid(908df4d5df102b4479b6e8a8dae61a4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e138db7a976f7e582111a1af17744253') in 0.037303 seconds
+  Import took 0.045676 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000542 seconds.
+  path: Assets/MeshBaker/Examples/Assets/Textures/firstFloorPlatform.tif
+  artifactKey: Guid(55c21094cd1103a2a0008cea4ada8c59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/Assets/Textures/firstFloorPlatform.tif using Guid(55c21094cd1103a2a0008cea4ada8c59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2ba4345b72c4820be4bbbd1225abed2') in 0.059890 seconds
+  Import took 0.062686 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/zfc/Bake/ReflectionProbe-0.exr
+  artifactKey: Guid(228a5afd573d74e48bc071ea3ffa9252) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/Bake/ReflectionProbe-0.exr using Guid(228a5afd573d74e48bc071ea3ffa9252) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '384e7e05d4bb8eabaab3207430979091') in 0.011135 seconds
+  Import took 0.021577 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/MeshBaker/Examples/Assets/Textures/platformOneBump.tif
+  artifactKey: Guid(fc9d16b4cd1123a2a0008cea4ada8c59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/Assets/Textures/platformOneBump.tif using Guid(fc9d16b4cd1123a2a0008cea4ada8c59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '986ac3e2eb9ed80194f8120b00d7dc88') in 0.036776 seconds
+  Import took 0.039212 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/MeshBaker/Examples/MultipleMaterials/SourceMaterials/roof2_NRM.png
+  artifactKey: Guid(6f60370741202b14a99df67bb5d7a9eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/MultipleMaterials/SourceMaterials/roof2_NRM.png using Guid(6f60370741202b14a99df67bb5d7a9eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '904db461933d246ad61914e961c0264f') in 0.059885 seconds
+  Import took 0.069728 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/MeshBaker/Examples/Assets/Textures/mainLevelTexture.tif
+  artifactKey: Guid(ea84df73cd1123a2a0008cea4ada8c59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/Assets/Textures/mainLevelTexture.tif using Guid(ea84df73cd1123a2a0008cea4ada8c59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ec076043d7cc3735ac66dcd17d2eb3d') in 0.055363 seconds
+  Import took 0.057735 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000432 seconds.
+  path: Assets/zfc/zfc_Models/Building/Textures/ZFJT_032.jpg
+  artifactKey: Guid(faa388847fd06074485d9163e26999b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/zfc_Models/Building/Textures/ZFJT_032.jpg using Guid(faa388847fd06074485d9163e26999b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b31f176519a1249a8aaeacc7b9373b7') in 0.009880 seconds
+  Import took 0.012589 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000393 seconds.
+  path: Assets/zfc/Textures/ZFJT_028.jpg
+  artifactKey: Guid(bc8e9f8ad8d2a7442a91c773b93ab630) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/Textures/ZFJT_028.jpg using Guid(bc8e9f8ad8d2a7442a91c773b93ab630) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4a3a08af7036965408f9d7408ef0f22') in 0.007639 seconds
+  Import took 0.010108 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/zfc/zfc_Models/Building/Textures/ZFJT_206.jpg
+  artifactKey: Guid(456da783665368c4fbf1a75e806366ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/zfc_Models/Building/Textures/ZFJT_206.jpg using Guid(456da783665368c4fbf1a75e806366ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b47bfecd0ff0c20406019b378b263bce') in 0.009127 seconds
+  Import took 0.012375 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.034153 seconds.
+  path: Assets/zfc/zfc_Models/Building/Textures/ZFJT_032.jpg
+  artifactKey: Guid(faa388847fd06074485d9163e26999b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zfc/zfc_Models/Building/Textures/ZFJT_032.jpg using Guid(faa388847fd06074485d9163e26999b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b31f176519a1249a8aaeacc7b9373b7') in 0.007803 seconds
+  Import took 0.010451 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1457.049245 seconds.
+  path: Assets/MeshBaker/scripts/TextureBlenders/TextureBlenderStandardSpecular.cs
+  artifactKey: Guid(3a3737d1f36bf3b4c889c6f805d700bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/scripts/TextureBlenders/TextureBlenderStandardSpecular.cs using Guid(3a3737d1f36bf3b4c889c6f805d700bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5151d805a89686609196b63a1c1b4322') in 0.004482 seconds
+  Import took 0.013274 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001218 seconds.
+  path: Assets/MeshBaker/scripts/TextureBlenders/TextureBlenderStandardSpecular.cs
+  artifactKey: Guid(3a3737d1f36bf3b4c889c6f805d700bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/scripts/TextureBlenders/TextureBlenderStandardSpecular.cs using Guid(3a3737d1f36bf3b4c889c6f805d700bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5151d805a89686609196b63a1c1b4322') in 0.001499 seconds
+  Import took 0.003932 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002378 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.907 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1470 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.7 MB.
+System memory in use after: 93.8 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2005.
+Total: 2.753500 ms (FindLiveObjects: 0.360200 ms CreateObjectMapping: 0.072300 ms MarkObjects: 2.278000 ms  DeleteObjects: 0.041300 ms)
+
