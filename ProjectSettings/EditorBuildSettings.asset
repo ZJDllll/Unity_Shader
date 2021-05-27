@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/ZH/Instancing.unity
+    guid: 4db645731dd1a7345a32aa02b8a55c51
+  - enabled: 1
+    path: Assets/ZH/MixLighting.unity
+    guid: 34ffd5087deea7648a14f07caa8e9001
+  - enabled: 1
+    path: Assets/DL/Scenes/GPU Instancing.unity
+    guid: 14fa8e9c59331413388e0fc9d833d3f4
   m_configObjects: {}
