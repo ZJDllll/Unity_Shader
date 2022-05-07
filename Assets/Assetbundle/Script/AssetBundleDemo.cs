@@ -4,12 +4,13 @@ using UnityEngine;
 
 public class AssetBundleDemo : MonoBehaviour
 {
-    public GameObject gameObject;
+    //public GameObject gameObjects;
+
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log("哈喽我的宝贝"+ gameObject.name);
-        Debug.Log("哈喽我的宝贝，你终于来了"+ gameObject.name);
+        Debug.Log("哈喽我的宝贝" + gameObject.name);
+        Debug.Log("哈喽我的宝贝，你终于来了" + gameObject.name);
     }
 
     

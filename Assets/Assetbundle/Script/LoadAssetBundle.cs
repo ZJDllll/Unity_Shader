@@ -5,13 +5,13 @@ using UnityEngine.Networking;
 
 public class LoadAssetBundle : MonoBehaviour
 {
-    UnityWebRequest requestAssetBundle;
+    private UnityWebRequest requestAssetBundle;
     private void Start()
     {
         StartCoroutine(LoadFromWebRequest());
     }
-    
-    IEnumerator LoadFromWebRequest()
+
+    private IEnumerator LoadFromWebRequest()
     {
         string path = @"http://localhost:8080/AssetBundle/model.u3d";
         requestAssetBundle = UnityWebRequestAssetBundle.GetAssetBundle(path);

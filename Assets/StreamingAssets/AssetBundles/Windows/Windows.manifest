@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3691649121
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: assetobj_prefab
+      Dependencies: {}
+    Info_1:
+      Name: testimage_png
+      Dependencies: {}
+    Info_2:
+      Name: uimultipanel_prefab
+      Dependencies: {}
+    Info_3:
+      Name: sceneres_unity
+      Dependencies: {}
+    Info_4:
+      Name: textureexample1_png
+      Dependencies: {}
+    Info_5:
+      Name: battlescene_unity
+      Dependencies: {}
+    Info_6:
+      Name: cubeadel_prefab
+      Dependencies: {}
+    Info_7:
+      Name: spritetest_png
+      Dependencies: {}

@@ -1,0 +1,29 @@
+{
+    "Id": "",
+    "Version": "v0.14.00",
+    "Type": 0,
+    "AccessRight": 0,
+    "DownloadUrl": "",
+    "InstallPath": "Assets/QFramework/Framework/",
+    "IncludeFileOrFolders": [
+        "Assets/QFramework/Framework/Architecture",
+        "Assets/QFramework/Framework/link.xml",
+        "Assets/QFramework/Framework/PackageVersion.json",
+        "Assets/QFramework/Framework/Toolkits/ActionKit",
+        "Assets/QFramework/Framework/Toolkits/AI.zip",
+        "Assets/QFramework/Framework/Toolkits/AudioKit",
+        "Assets/QFramework/Framework/Toolkits/Core",
+        "Assets/QFramework/Framework/Toolkits/ResKit",
+        "Assets/QFramework/Framework/Toolkits/StaticExtensions",
+        "Assets/QFramework/Framework/Toolkits/Trigger2DCheck",
+        "Assets/QFramework/Framework/Toolkits/UIKit"
+    ],
+    "DocUrl": "https://lianxiegame.com",
+    "Readme": {
+        "version": "v0.14.00",
+        "content": "update qframework.cs 修复一些编译问题",
+        "author": "liangxie",
+        "date": "2021 年 12 月 04 日 12:36",
+        "PackageId": ""
+    }
+}

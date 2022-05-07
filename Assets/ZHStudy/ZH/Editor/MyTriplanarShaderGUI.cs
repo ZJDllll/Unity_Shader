@@ -1,0 +1,48 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEditor;
+using UnityEngine;
+
+public class MyTriplanarShaderGUI : MyBaseShaderGUI
+{
+    public override void OnGUI(MaterialEditor materialEditor, MaterialProperty[] properties)
+    {
+        base.OnGUI(materialEditor, properties);
+        editor.ShaderProperty(FindProperty("_MapScale"), MakeLabel("Map Scale"));
+        DoMaps();
+        DoBlending();
+        DoOtherSetting();
+    }
+
+    void DoMaps() {
+        GUILayout.Label("TopMaps", EditorStyles.boldLabel);
+        MaterialProperty topAlbedo = FindProperty("_TopMainTex");
+        Texture topTexture = topAlbedo.textureValue;
+        EditorGUI.BeginChangeCheck();
+        editor.TexturePropertySingleLine(MakeLabel("Albedo"), topAlbedo);
+        if (EditorGUI.EndChangeCheck() && topTexture != topAlbedo.textureValue)
+        {
+            SetKeyword("_SEPARATE_TOP_MAPS", topAlbedo.textureValue);
+        }
+
+        editor.TexturePropertySingleLine(MakeLabel("MOHS", "Metallic (R) Occlusion (G) Height (R) Smoothness (A)"), FindProperty("_TopMOHSMap"));
+        editor.TexturePropertySingleLine(MakeLabel("Normals"), FindProperty("_TopNormalMap"));
+
+        GUILayout.Label("Maps", EditorStyles.boldLabel);
+        editor.TexturePropertySingleLine(MakeLabel("Albedo"),FindProperty("_MainTex"));
+        editor.TexturePropertySingleLine(MakeLabel("MOHS", "Metallic(R) Occlusion (G) Height (B) Smoothness (A)"), FindProperty("_MOHSMap"));
+        editor.TexturePropertySingleLine(MakeLabel("Normal"), FindProperty("_NormalMap"));
+    }
+    void DoBlending() {
+        GUILayout.Label("Blending", EditorStyles.boldLabel);
+        editor.ShaderProperty(FindProperty("_BlendOffset"), MakeLabel("Offset"));
+        editor.ShaderProperty(FindProperty("_BlendExponent"), MakeLabel("Exponent"));
+        editor.ShaderProperty(FindProperty("_BlendHeightStrength"), MakeLabel("Height Strength"));
+    }
+    void DoOtherSetting() {
+        GUILayout.Label("Other Settings", EditorStyles.boldLabel);
+        editor.RenderQueueField();
+        editor.EnableInstancingField();
+    }
+
+}
