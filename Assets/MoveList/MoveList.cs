@@ -62,7 +62,7 @@ public class MoveList : MonoBehaviour
         //全部加载完成，如果个数大于8个，执行移动步骤
         if (Paths.Length>8)
         {
-
+            
         }
 
         StopAllCoroutines();
